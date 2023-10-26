@@ -1,4 +1,4 @@
-from leapyear.leapyear import isLeapYear
+from leapyear import isLeapYear
 
 
 def test_not_leap_year_is_not_divisible_by_4():
